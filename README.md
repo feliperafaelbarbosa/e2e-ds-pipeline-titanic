@@ -28,14 +28,13 @@ Uso de um modelo de classificação baseado em Regressão Logística.
 Medição do desempenho utilizando apenas a precisão do modelo.
 
 ### 7. **Visualização de Dados**  
-Criação de gráficos para visualizar as distribuições e relações entre variáveis, utilizando `matplotlib` e `seaborn`.  
+Criação de gráficos para visualizar as distribuições variáveis, utilizando `matplotlib`.  
 
 ## Dependências  
 As seguintes bibliotecas são necessárias para executar o pipeline:  
 - pandas  
 - numpy  
-- matplotlib  
-- seaborn  
+- matplotlib 
 - scikit-learn  
 
 Instale-as com:  
